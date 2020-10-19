@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 notatki.js
-/src/gsap-bonus.tgz
+# /src/gsap-bonus.tgz
 
 # testing
 /coverage
